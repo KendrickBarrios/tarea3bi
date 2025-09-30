@@ -1,0 +1,777 @@
+consultaID, categoriaID, descripcion
+562, 3, El cuarto asignado estaba en malas condiciones.
+491, 1, El médico no explicó claramente el diagnóstico.
+370, 2, El tiempo de espera fue demasiado largo.
+361, 3, El personal administrativo fue poco cordial.
+361, 3, El personal administrativo fue poco cordial.
+337, 1, 
+473, 1, El personal administrativo fue poco cordial.
+473, 1, El personal administrativo fue poco cordial.
+312, 3, Falta de disponibilidad de medicamentos.
+996, 2, La atención se sintió apresurada.
+, , La cita fue cancelada sin previo aviso.
+, , La cita fue cancelada sin previo aviso.
+911, , La cita fue cancelada sin previo aviso.
+911, , La cita fue cancelada sin previo aviso.
+775, 4, El cuarto asignado estaba en malas condiciones.
+529, 3, Problemas con la facturación del servicio.
+529, 3, Problemas con la facturación del servicio.
+853, 2, Se extraviaron documentos clínicos importantes.
+721, 4, Falta de disponibilidad de medicamentos.
+576, 3, La atención se sintió apresurada.
+826, 2, La atención del personal no fue satisfactoria.
+371, 1, El médico no explicó claramente el diagnóstico.
+45, 4, El personal administrativo fue poco cordial.
+336, 4, El personal administrativo fue poco cordial.
+336, 4, El personal administrativo fue poco cordial.
+784, 3, El personal administrativo fue poco cordial.
+171, 2, Falta de disponibilidad de medicamentos.
+985, 2, El tiempo de espera fue demasiado largo.
+, 3, El médico dijo: 'todo bien' sin explicación
+204, , 
+204, , 
+197, 3, El personal administrativo fue poco cordial.
+944, 1, El cuarto asignado estaba en malas condiciones.
+373, 3, Se extraviaron documentos clínicos importantes.
+373, 3, Se extraviaron documentos clínicos importantes.
+728, 2, El cuarto asignado estaba en malas condiciones.
+750, 2, El personal administrativo fue poco cordial.
+912, 2, La atención se sintió apresurada.
+550, 4, El personal administrativo fue poco cordial.
+587, 4, El médico no explicó claramente el diagnóstico.
+715, 4, El tiempo de espera fue demasiado largo.
+554, 1, La atención del personal no fue satisfactoria.
+554, 1, La atención del personal no fue satisfactoria.
+243, 1, El personal administrativo fue poco cordial.
+ABC123, 2, Problemas con la facturación del servicio.
+771, 4, La atención del personal no fue satisfactoria.
+771, 4, La atención del personal no fue satisfactoria.
+683, 4, El cuarto asignado estaba en malas condiciones.
+683, 4, El cuarto asignado estaba en malas condiciones.
+863, 1, El tiempo de espera fue demasiado largo.
+870, 1, El médico no explicó claramente el diagnóstico.
+870, 1, El médico no explicó claramente el diagnóstico.
+, , El personal administrativo fue poco cordial.
+87, 1, La cita fue cancelada sin previo aviso.
+791, 2, El médico no explicó claramente el diagnóstico.
+595, 4, La atención se sintió apresurada.
+557, 2, La atención del personal no fue satisfactoria.
+707, 2, El médico no explicó claramente el diagnóstico.
+421, 3, El médico no explicó claramente el diagnóstico.
+64, 1, Falta de disponibilidad de medicamentos.
+507, 3, El médico no explicó claramente el diagnóstico.
+, 3, Falta de disponibilidad de medicamentos.
+871, 4, Problemas con la facturación del servicio.
+947, 1, El médico no explicó claramente el diagnóstico.
+923, 1, El personal administrativo fue poco cordial.
+188, 4, Problemas con la facturación del servicio.
+393, 2, El cuarto asignado estaba en malas condiciones.
+162, 2, El personal administrativo fue poco cordial.
+467, 4, Se extraviaron documentos clínicos importantes.
+661, 3, La atención del personal no fue satisfactoria.
+46, 2, La atención se sintió apresurada.
+663, 3, Se extraviaron documentos clínicos importantes.
+663, 3, Se extraviaron documentos clínicos importantes.
+952, 4, El tiempo de espera fue demasiado largo.
+952, 4, El tiempo de espera fue demasiado largo.
+276, 1, Falta de disponibilidad de medicamentos.
+428, 1, El cuarto asignado estaba en malas condiciones.
+892, 3, El tiempo de espera fue demasiado largo.
+892, 3, El tiempo de espera fue demasiado largo.
+157, 4, El cuarto asignado estaba en malas condiciones.
+157, 4, El cuarto asignado estaba en malas condiciones.
+35, 4, La cita fue cancelada sin previo aviso.
+896, 1, El tiempo de espera fue demasiado largo.
+67, 2, El médico no explicó claramente el diagnóstico.
+198, 4, El médico no explicó claramente el diagnóstico.
+351, 3, El personal administrativo fue poco cordial.
+351, 3, El personal administrativo fue poco cordial.
+774, 3, La atención del personal no fue satisfactoria.,,,
+880, 3, El médico dijo: 'todo bien' sin explicación
+220, ???, Se extraviaron documentos clínicos importantes.
+220, ???, Se extraviaron documentos clínicos importantes.
+591, 3, 
+979, 4, Falta de disponibilidad de medicamentos.
+950, 3, Se extraviaron documentos clínicos importantes.
+, 4, El personal administrativo fue poco cordial.
+677, 3, 
+1000, 2, El tiempo de espera fue demasiado largo.
+300, 3, La cita fue cancelada sin previo aviso.
+, , La atención se sintió apresurada.,,,
+, , La atención se sintió apresurada.,,,
+4, 1, Se extraviaron documentos clínicos importantes.,,,
+567, 2, 
+589, 4, Falta de disponibilidad de medicamentos.
+335, 1, El personal administrativo fue poco cordial.
+680, 2, 
+638, 4, El personal administrativo fue poco cordial.
+248, 4, El médico dijo: 'todo bien' sin explicación
+47, 4, El médico dijo: 'todo bien' sin explicación
+293, 1, El personal administrativo fue poco cordial.
+945, 2, El cuarto asignado estaba en malas condiciones.
+945, 2, El cuarto asignado estaba en malas condiciones.
+356, , El tiempo de espera fue demasiado largo.
+356, , El tiempo de espera fue demasiado largo.
+855, 3, El tiempo de espera fue demasiado largo.
+434, 3, Falta de disponibilidad de medicamentos.
+818, 4, El cuarto asignado estaba en malas condiciones.
+738, 2, Problemas con la facturación del servicio.
+738, 2, Problemas con la facturación del servicio.
+263, 4, El médico no explicó claramente el diagnóstico.
+, 4, 
+449, 3, Problemas con la facturación del servicio.
+838, 3, El cuarto asignado estaba en malas condiciones.
+590, 3, Problemas con la facturación del servicio.
+744, 2, Problemas con la facturación del servicio.
+156, 2, El cuarto asignado estaba en malas condiciones.
+, , La atención del personal no fue satisfactoria.
+318, 2, El médico dijo: 'todo bien' sin explicación
+745, 1, El personal administrativo fue poco cordial.
+170, 1, El cuarto asignado estaba en malas condiciones.
+170, 1, El cuarto asignado estaba en malas condiciones.
+394, 2, El personal administrativo fue poco cordial.
+852, 3, La atención del personal no fue satisfactoria.
+566, 4, El tiempo de espera fue demasiado largo.
+741, ???, El personal administrativo fue poco cordial.
+741, ???, El personal administrativo fue poco cordial.
+602, 4, El tiempo de espera fue demasiado largo.
+602, 4, El tiempo de espera fue demasiado largo.
+719, 1, La cita fue cancelada sin previo aviso.
+44, , La cita fue cancelada sin previo aviso.
+860, 3, 
+600, 3, 
+150, 2, La cita fue cancelada sin previo aviso.
+521, 2, Falta de disponibilidad de medicamentos.
+773, 1, Falta de disponibilidad de medicamentos.
+890, 2, El tiempo de espera fue demasiado largo.
+890, 2, El tiempo de espera fue demasiado largo.
+759, , 
+, , La atención del personal no fue satisfactoria.
+199, 4, El tiempo de espera fue demasiado largo.
+ABC123, 2, Se extraviaron documentos clínicos importantes.
+954, 3, El cuarto asignado estaba en malas condiciones.
+532, 1, El cuarto asignado estaba en malas condiciones.
+639, 3, La atención se sintió apresurada.
+665, 4, El cuarto asignado estaba en malas condiciones.
+592, 1, La atención se sintió apresurada.
+89, 4, El cuarto asignado estaba en malas condiciones.
+62, 4, Problemas con la facturación del servicio.
+857, 2, El tiempo de espera fue demasiado largo.
+654, 3, La atención del personal no fue satisfactoria.
+585, 1, La cita fue cancelada sin previo aviso.
+464, 4, El tiempo de espera fue demasiado largo.
+, 2, 
+984, 2, El personal administrativo fue poco cordial.
+258, 4, Problemas con la facturación del servicio.
+258, 4, Problemas con la facturación del servicio.
+381, 1, El cuarto asignado estaba en malas condiciones.
+108, 1, El tiempo de espera fue demasiado largo.
+807, 2, Problemas con la facturación del servicio.
+55, 2, La atención se sintió apresurada.,,,
+55, 2, La atención se sintió apresurada.,,,
+723, 3, La cita fue cancelada sin previo aviso.
+604, 4, Se extraviaron documentos clínicos importantes.
+631, 2, La atención se sintió apresurada.
+951, 4, Se extraviaron documentos clínicos importantes.
+365, 2, Problemas con la facturación del servicio.
+ABC123, 2, El médico no explicó claramente el diagnóstico.
+ABC123, 2, El médico no explicó claramente el diagnóstico.
+806, 3, Falta de disponibilidad de medicamentos.
+806, 3, Falta de disponibilidad de medicamentos.
+439, 4, El personal administrativo fue poco cordial.
+439, 4, El personal administrativo fue poco cordial.
+174, 4, La atención del personal no fue satisfactoria.,,,
+174, 4, La atención del personal no fue satisfactoria.,,,
+ABC123, 1, Problemas con la facturación del servicio.
+849, 3, La cita fue cancelada sin previo aviso.
+8, 2, La atención del personal no fue satisfactoria.
+368, 1, Problemas con la facturación del servicio.
+524, 2, El personal administrativo fue poco cordial.
+561, 2, El cuarto asignado estaba en malas condiciones.
+513, 1, Se extraviaron documentos clínicos importantes.
+513, 1, Se extraviaron documentos clínicos importantes.
+597, 3, La atención se sintió apresurada.
+670, 2, El cuarto asignado estaba en malas condiciones.
+560, 1, La atención se sintió apresurada.
+129, 4, La atención del personal no fue satisfactoria.
+54, 2, 
+545, 4, La atención se sintió apresurada.
+178, 4, Falta de disponibilidad de medicamentos.
+650, 1, 
+577, 4, Falta de disponibilidad de medicamentos.
+577, 4, Falta de disponibilidad de medicamentos.
+636, 4, El tiempo de espera fue demasiado largo.
+974, 1, El tiempo de espera fue demasiado largo.
+523, 4, La atención se sintió apresurada.
+146, 3, El personal administrativo fue poco cordial.
+124, 3, Se extraviaron documentos clínicos importantes.
+934, 4, Se extraviaron documentos clínicos importantes.
+596, 2, El médico no explicó claramente el diagnóstico.
+596, 2, El médico no explicó claramente el diagnóstico.
+73, 2, La cita fue cancelada sin previo aviso.
+, 3, Se extraviaron documentos clínicos importantes.
+296, 4, El personal administrativo fue poco cordial.
+982, 2, La cita fue cancelada sin previo aviso.
+982, 2, La cita fue cancelada sin previo aviso.
+538, 4, El cuarto asignado estaba en malas condiciones.
+246, 4, Se extraviaron documentos clínicos importantes.
+935, 4, La cita fue cancelada sin previo aviso.
+12, 3, El médico no explicó claramente el diagnóstico.
+555, 3, El médico no explicó claramente el diagnóstico.
+685, 1, Se extraviaron documentos clínicos importantes.,,,
+736, 3, Se extraviaron documentos clínicos importantes.
+736, 3, Se extraviaron documentos clínicos importantes.
+981, 4, La cita fue cancelada sin previo aviso.
+981, 4, La cita fue cancelada sin previo aviso.
+859, 2, Se extraviaron documentos clínicos importantes.
+867, 1, El médico no explicó claramente el diagnóstico.
+466, 4, La atención se sintió apresurada.
+993, 2, 
+606, 1, La atención del personal no fue satisfactoria.
+876, 2, El tiempo de espera fue demasiado largo.
+506, 3, Falta de disponibilidad de medicamentos.
+506, 3, Falta de disponibilidad de medicamentos.
+581, 3, Falta de disponibilidad de medicamentos.,,,
+646, 3, El tiempo de espera fue demasiado largo.
+548, 2, La atención del personal no fue satisfactoria.
+637, 3, El cuarto asignado estaba en malas condiciones.
+182, 4, Falta de disponibilidad de medicamentos.
+182, 4, Falta de disponibilidad de medicamentos.
+644, 2, La atención se sintió apresurada.
+, , Falta de disponibilidad de medicamentos.
+, , Falta de disponibilidad de medicamentos.
+191, 3, Problemas con la facturación del servicio.
+27, 3, Falta de disponibilidad de medicamentos.,,,
+5, 4, La atención se sintió apresurada.
+5, 4, La atención se sintió apresurada.
+388, 1, El cuarto asignado estaba en malas condiciones.
+256, , El médico dijo: 'todo bien' sin explicación
+822, 1, El médico no explicó claramente el diagnóstico.
+822, 1, El médico no explicó claramente el diagnóstico.
+571, 3, Falta de disponibilidad de medicamentos.
+571, 3, Falta de disponibilidad de medicamentos.
+727, 4, El tiempo de espera fue demasiado largo.
+155, 1, El tiempo de espera fue demasiado largo.
+609, 1, La atención se sintió apresurada.
+115, 1, El tiempo de espera fue demasiado largo.
+788, 4, El médico no explicó claramente el diagnóstico.
+733, 1, La atención se sintió apresurada.
+733, 1, La atención se sintió apresurada.
+30, 1, La atención se sintió apresurada.
+30, 1, La atención se sintió apresurada.
+845, 4, El médico no explicó claramente el diagnóstico.
+72, 4, El cuarto asignado estaba en malas condiciones.
+383, 2, La cita fue cancelada sin previo aviso.
+398, 2, La atención se sintió apresurada.
+778, 3, La atención se sintió apresurada.
+778, 3, La atención se sintió apresurada.
+907, 4, Problemas con la facturación del servicio.
+627, 3, El personal administrativo fue poco cordial.
+627, 3, El personal administrativo fue poco cordial.
+786, 3, La atención del personal no fue satisfactoria.,,,
+740, 4, El personal administrativo fue poco cordial.
+579, 3, Se extraviaron documentos clínicos importantes.
+123, 2, La atención del personal no fue satisfactoria.
+674, 4, El médico no explicó claramente el diagnóstico.
+674, 4, El médico no explicó claramente el diagnóstico.
+841, 2, El cuarto asignado estaba en malas condiciones.
+603, 2, El médico no explicó claramente el diagnóstico.
+226, 1, La cita fue cancelada sin previo aviso.
+830, 4, La atención se sintió apresurada.
+830, 4, La atención se sintió apresurada.
+854, 1, El tiempo de espera fue demasiado largo.
+583, 1, Falta de disponibilidad de medicamentos.
+320, 4, La atención del personal no fue satisfactoria.
+320, 4, La atención del personal no fue satisfactoria.
+517, 1, 
+517, 1, 
+688, 1, El médico no explicó claramente el diagnóstico.
+41, 3, El tiempo de espera fue demasiado largo.
+569, 4, 
+569, 4, 
+, 1, 
+700, 1, El personal administrativo fue poco cordial.
+289, 1, El médico no explicó claramente el diagnóstico.
+568, , 
+116, 3, Falta de disponibilidad de medicamentos.
+494, 4, El médico no explicó claramente el diagnóstico.
+51, 3, El tiempo de espera fue demasiado largo.
+338, 2, Falta de disponibilidad de medicamentos.
+269, 3, El tiempo de espera fue demasiado largo.
+584, 4, Problemas con la facturación del servicio.
+409, 2, El tiempo de espera fue demasiado largo.
+409, 2, El tiempo de espera fue demasiado largo.
+783, 2, El cuarto asignado estaba en malas condiciones.
+659, 3, El tiempo de espera fue demasiado largo.
+164, 3, La cita fue cancelada sin previo aviso.
+640, 3, Problemas con la facturación del servicio.
+573, 3, La atención se sintió apresurada.
+573, 3, La atención se sintió apresurada.
+891, 4, Se extraviaron documentos clínicos importantes.
+800, 1, La cita fue cancelada sin previo aviso.
+800, 1, La cita fue cancelada sin previo aviso.
+, 1, 
+, 1, 
+519, 3, Se extraviaron documentos clínicos importantes.
+872, 3, Se extraviaron documentos clínicos importantes.
+689, 1, El tiempo de espera fue demasiado largo.
+503, 1, 
+, , La cita fue cancelada sin previo aviso.
+, , La cita fue cancelada sin previo aviso.
+883, 4, 
+254, 4, El personal administrativo fue poco cordial.
+611, 2, El personal administrativo fue poco cordial.
+586, 1, La atención se sintió apresurada.
+669, 2, La atención se sintió apresurada.
+502, 2, Problemas con la facturación del servicio.
+544, 2, Se extraviaron documentos clínicos importantes.
+544, 2, Se extraviaron documentos clínicos importantes.
+309, 1, El tiempo de espera fue demasiado largo.
+615, 1, Problemas con la facturación del servicio.
+681, 1, El cuarto asignado estaba en malas condiciones.
+36, 1, Falta de disponibilidad de medicamentos.
+753, 4, El personal administrativo fue poco cordial.
+352, 1, La cita fue cancelada sin previo aviso.
+151, 4, El médico dijo: 'todo bien' sin explicación
+799, 3, Falta de disponibilidad de medicamentos.
+181, 3, Falta de disponibilidad de medicamentos.
+, 2, 
+484, 4, El tiempo de espera fue demasiado largo.
+79, 3, Falta de disponibilidad de medicamentos.
+565, 3, La atención se sintió apresurada.
+565, 3, La atención se sintió apresurada.
+185, 3, Se extraviaron documentos clínicos importantes.
+, 4, 
+613, 3, El tiempo de espera fue demasiado largo.
+613, 3, El tiempo de espera fue demasiado largo.
+809, 3, El cuarto asignado estaba en malas condiciones.
+714, 4, Falta de disponibilidad de medicamentos.
+481, 1, El cuarto asignado estaba en malas condiciones.
+344, 4, Falta de disponibilidad de medicamentos.
+884, 2, Falta de disponibilidad de medicamentos.
+687, 4, El personal administrativo fue poco cordial.
+119, 4, Falta de disponibilidad de medicamentos.
+350, 4, La cita fue cancelada sin previo aviso.
+222, 2, Se extraviaron documentos clínicos importantes.
+222, 2, Se extraviaron documentos clínicos importantes.
+, , Falta de disponibilidad de medicamentos.
+949, 3, El personal administrativo fue poco cordial.
+341, 1, La atención se sintió apresurada.
+652, 3, Se extraviaron documentos clínicos importantes.
+201, 4, El médico dijo: 'todo bien' sin explicación
+, 2, La cita fue cancelada sin previo aviso.
+223, ???, El médico no explicó claramente el diagnóstico.
+, 1, 
+839, 2, Falta de disponibilidad de medicamentos.
+26, 3, El médico no explicó claramente el diagnóstico.
+26, 3, El médico no explicó claramente el diagnóstico.
+285, 4, El cuarto asignado estaba en malas condiciones.
+285, 4, El cuarto asignado estaba en malas condiciones.
+272, 4, La cita fue cancelada sin previo aviso.
+832, 2, El personal administrativo fue poco cordial.
+137, 3, Se extraviaron documentos clínicos importantes.
+757, 2, El médico dijo: 'todo bien' sin explicación
+127, 4, El cuarto asignado estaba en malas condiciones.
+127, 4, El cuarto asignado estaba en malas condiciones.
+864, 4, El cuarto asignado estaba en malas condiciones.
+864, 4, El cuarto asignado estaba en malas condiciones.
+653, 3, Se extraviaron documentos clínicos importantes.
+653, 3, Se extraviaron documentos clínicos importantes.
+, 1, El personal administrativo fue poco cordial.
+103, 1, El médico no explicó claramente el diagnóstico.
+29, 2, La cita fue cancelada sin previo aviso.
+, 4, 
+, 4, 
+742, 4, El cuarto asignado estaba en malas condiciones.
+925, 3, El cuarto asignado estaba en malas condiciones.
+925, 3, El cuarto asignado estaba en malas condiciones.
+, 3, 
+366, 4, Falta de disponibilidad de medicamentos.
+, ???, 
+172, 2, El médico no explicó claramente el diagnóstico.
+257, 2, Se extraviaron documentos clínicos importantes.
+536, 2, El cuarto asignado estaba en malas condiciones.
+703, 1, La atención se sintió apresurada.
+914, 4, Falta de disponibilidad de medicamentos.
+885, 4, La atención se sintió apresurada.
+ABC123, , 
+ABC123, , 
+117, 4, Se extraviaron documentos clínicos importantes.
+117, 4, Se extraviaron documentos clínicos importantes.
+, 1, Falta de disponibilidad de medicamentos.
+, 1, Falta de disponibilidad de medicamentos.
+897, 3, Se extraviaron documentos clínicos importantes.
+961, 3, La atención del personal no fue satisfactoria.
+958, 1, El personal administrativo fue poco cordial.
+825, 4, El cuarto asignado estaba en malas condiciones.
+667, 2, La atención del personal no fue satisfactoria.
+667, 2, La atención del personal no fue satisfactoria.
+158, 2, El personal administrativo fue poco cordial.
+, , El cuarto asignado estaba en malas condiciones.
+100, ???, Se extraviaron documentos clínicos importantes.
+943, , 
+617, 2, El personal administrativo fue poco cordial.
+332, 1, El tiempo de espera fue demasiado largo.
+359, 3, El médico no explicó claramente el diagnóstico.
+359, 3, El médico no explicó claramente el diagnóstico.
+82, 4, El médico dijo: 'todo bien' sin explicación
+82, 4, El médico dijo: 'todo bien' sin explicación
+916, 2, El personal administrativo fue poco cordial.
+594, 1, El tiempo de espera fue demasiado largo.
+803, 4, Problemas con la facturación del servicio.
+814, 2, El personal administrativo fue poco cordial.
+460, , El médico no explicó claramente el diagnóstico.
+790, 4, El cuarto asignado estaba en malas condiciones.
+141, 4, La cita fue cancelada sin previo aviso.
+549, 3, Falta de disponibilidad de medicamentos.
+445, 4, 
+445, 4, 
+734, 3, Se extraviaron documentos clínicos importantes.
+374, 1, Falta de disponibilidad de medicamentos.
+888, 2, Problemas con la facturación del servicio.
+43, 4, El tiempo de espera fue demasiado largo.
+724, 3, El cuarto asignado estaba en malas condiciones.
+212, 1, El personal administrativo fue poco cordial.
+83, 4, El tiempo de espera fue demasiado largo.
+83, 4, El tiempo de espera fue demasiado largo.
+112, 1, La cita fue cancelada sin previo aviso.
+477, 4, La cita fue cancelada sin previo aviso.
+795, 3, La cita fue cancelada sin previo aviso.
+936, 2, El tiempo de espera fue demasiado largo.
+281, 2, La atención se sintió apresurada.
+756, , 
+343, 4, Se extraviaron documentos clínicos importantes.
+941, 2, La cita fue cancelada sin previo aviso.
+605, 2, La atención del personal no fue satisfactoria.,,,
+419, 2, Falta de disponibilidad de medicamentos.
+456, 2, La cita fue cancelada sin previo aviso.
+558, ???, La atención se sintió apresurada.
+76, 1, El cuarto asignado estaba en malas condiciones.
+630, 3, La atención del personal no fue satisfactoria.
+104, 2, Falta de disponibilidad de medicamentos.
+104, 2, Falta de disponibilidad de medicamentos.
+121, 2, Problemas con la facturación del servicio.
+364, 1, El médico no explicó claramente el diagnóstico.
+973, , 
+349, 4, La atención del personal no fue satisfactoria.
+349, 4, La atención del personal no fue satisfactoria.
+, 4, 
+95, 4, La atención se sintió apresurada.
+95, 4, La atención se sintió apresurada.
+415, 2, Problemas con la facturación del servicio.
+635, 3, El cuarto asignado estaba en malas condiciones.
+262, 3, El médico no explicó claramente el diagnóstico.
+651, 1, La atención del personal no fue satisfactoria.
+412, 1, La cita fue cancelada sin previo aviso.
+200, 4, El cuarto asignado estaba en malas condiciones.
+113, , El cuarto asignado estaba en malas condiciones.
+326, 3, El médico dijo: 'todo bien' sin explicación
+1, 3, El cuarto asignado estaba en malas condiciones.
+518, 4, El médico dijo: 'todo bien' sin explicación
+, 3, 
+556, 2, La atención se sintió apresurada.
+908, 1, Se extraviaron documentos clínicos importantes.
+552, 3, La atención del personal no fue satisfactoria.
+, , La cita fue cancelada sin previo aviso.,,,
+234, 4, Problemas con la facturación del servicio.
+367, 4, Falta de disponibilidad de medicamentos.
+10, 4, El personal administrativo fue poco cordial.
+10, 4, El personal administrativo fue poco cordial.
+905, 1, El médico dijo: 'todo bien' sin explicación
+905, 1, El médico dijo: 'todo bien' sin explicación
+215, 3, Se extraviaron documentos clínicos importantes.
+525, 1, La cita fue cancelada sin previo aviso.
+525, 1, La cita fue cancelada sin previo aviso.
+138, 4, Se extraviaron documentos clínicos importantes.
+448, 3, La atención se sintió apresurada.
+322, 3, La cita fue cancelada sin previo aviso.
+322, 3, La cita fue cancelada sin previo aviso.
+57, 1, Problemas con la facturación del servicio.
+211, , El cuarto asignado estaba en malas condiciones.
+535, , 
+474, 2, El tiempo de espera fue demasiado largo.
+492, 3, La atención del personal no fue satisfactoria.
+837, 1, Falta de disponibilidad de medicamentos.
+919, 4, Falta de disponibilidad de medicamentos.
+968, 1, La atención se sintió apresurada.
+968, 1, La atención se sintió apresurada.
+321, 4, La atención del personal no fue satisfactoria.
+299, 4, 
+, 3, La atención se sintió apresurada.
+109, 2, La atención del personal no fue satisfactoria.,,,
+109, 2, La atención del personal no fue satisfactoria.,,,
+347, 1, El médico no explicó claramente el diagnóstico.
+437, 4, La cita fue cancelada sin previo aviso.
+277, 4, La cita fue cancelada sin previo aviso.
+358, , Problemas con la facturación del servicio.
+608, 1, El cuarto asignado estaba en malas condiciones.
+, 4, 
+, 4, 
+413, 2, El médico dijo: 'todo bien' sin explicación
+572, 3, El cuarto asignado estaba en malas condiciones.
+, 2, Falta de disponibilidad de medicamentos.
+528, 3, La cita fue cancelada sin previo aviso.
+417, 3, Falta de disponibilidad de medicamentos.
+308, 1, El personal administrativo fue poco cordial.
+375, 1, La cita fue cancelada sin previo aviso.
+730, 4, El tiempo de espera fue demasiado largo.,,,
+179, 2, La atención del personal no fue satisfactoria.
+478, 1, El cuarto asignado estaba en malas condiciones.
+355, 3, Problemas con la facturación del servicio.,,,
+526, 1, El médico no explicó claramente el diagnóstico.
+455, 3, La atención se sintió apresurada.
+718, ???, La atención del personal no fue satisfactoria.
+955, 4, Problemas con la facturación del servicio.
+516, 2, Se extraviaron documentos clínicos importantes.
+, , El cuarto asignado estaba en malas condiciones.
+, , El cuarto asignado estaba en malas condiciones.
+514, 3, La cita fue cancelada sin previo aviso.
+671, 4, El personal administrativo fue poco cordial.
+7, 2, El médico no explicó claramente el diagnóstico.
+543, 2, El médico no explicó claramente el diagnóstico.
+543, 2, El médico no explicó claramente el diagnóstico.
+489, 4, Falta de disponibilidad de medicamentos.
+140, 1, La atención del personal no fue satisfactoria.
+763, 3, Falta de disponibilidad de medicamentos.
+655, 4, Falta de disponibilidad de medicamentos.
+33, 4, Falta de disponibilidad de medicamentos.
+33, 4, Falta de disponibilidad de medicamentos.
+, , La atención del personal no fue satisfactoria.
+50, , 
+50, , 
+ABC123, 2, El médico no explicó claramente el diagnóstico.
+470, 3, El cuarto asignado estaba en malas condiciones.
+930, 2, El cuarto asignado estaba en malas condiciones.
+865, 3, Problemas con la facturación del servicio.
+225, 1, El personal administrativo fue poco cordial.
+530, 2, El médico dijo: 'todo bien' sin explicación
+475, 3, Se extraviaron documentos clínicos importantes.
+563, 2, Se extraviaron documentos clínicos importantes.
+563, 2, Se extraviaron documentos clínicos importantes.
+633, 1, Se extraviaron documentos clínicos importantes.
+599, 2, Se extraviaron documentos clínicos importantes.
+271, 2, La cita fue cancelada sin previo aviso.
+271, 2, La cita fue cancelada sin previo aviso.
+425, 2, La cita fue cancelada sin previo aviso.
+794, 4, El médico no explicó claramente el diagnóstico.
+657, 2, Falta de disponibilidad de medicamentos.
+, , La atención del personal no fue satisfactoria.
+, , La atención del personal no fue satisfactoria.
+732, 4, El personal administrativo fue poco cordial.,,,
+601, 2, Problemas con la facturación del servicio.
+601, 2, Problemas con la facturación del servicio.
+279, 3, El personal administrativo fue poco cordial.
+625, 2, Falta de disponibilidad de medicamentos.
+205, 4, El tiempo de espera fue demasiado largo.
+264, 1, La atención del personal no fue satisfactoria.
+340, 1, Se extraviaron documentos clínicos importantes.,,,
+, 1, 
+967, 1, La atención se sintió apresurada.
+65, 4, El médico no explicó claramente el diagnóstico.
+423, 3, Problemas con la facturación del servicio.
+, 1, La cita fue cancelada sin previo aviso.
+49, 4, Se extraviaron documentos clínicos importantes.
+789, 4, Se extraviaron documentos clínicos importantes.
+789, 4, Se extraviaron documentos clínicos importantes.
+290, 4, Problemas con la facturación del servicio.
+401, 2, 
+167, 4, El tiempo de espera fue demasiado largo.
+167, 4, El tiempo de espera fue demasiado largo.
+926, 1, Problemas con la facturación del servicio.
+465, 2, Problemas con la facturación del servicio.
+450, 2, El médico no explicó claramente el diagnóstico.
+696, 2, El tiempo de espera fue demasiado largo.
+696, 2, El tiempo de espera fue demasiado largo.
+937, 3, Problemas con la facturación del servicio.
+520, 3, 
+769, 3, La atención se sintió apresurada.
+664, 3, El médico dijo: 'todo bien' sin explicación
+21, 4, La cita fue cancelada sin previo aviso.
+927, 3, El tiempo de espera fue demasiado largo.
+942, 2, La cita fue cancelada sin previo aviso.
+983, , 
+433, 2, La cita fue cancelada sin previo aviso.
+433, 2, La cita fue cancelada sin previo aviso.
+357, 3, Se extraviaron documentos clínicos importantes.
+903, 3, 
+173, 2, Se extraviaron documentos clínicos importantes.
+793, 3, El tiempo de espera fue demasiado largo.
+504, 1, El personal administrativo fue poco cordial.
+284, 3, 
+410, 3, El personal administrativo fue poco cordial.,,,
+575, 1, El cuarto asignado estaba en malas condiciones.
+430, ???, Se extraviaron documentos clínicos importantes.
+122, 4, Se extraviaron documentos clínicos importantes.
+74, 1, Se extraviaron documentos clínicos importantes.
+702, 2, El personal administrativo fue poco cordial.
+498, 4, La cita fue cancelada sin previo aviso.
+, , El médico no explicó claramente el diagnóstico.
+, , El médico no explicó claramente el diagnóstico.
+186, 2, Problemas con la facturación del servicio.
+, 4, Falta de disponibilidad de medicamentos.,,,
+, 4, Falta de disponibilidad de medicamentos.,,,
+801, , La atención se sintió apresurada.
+801, , La atención se sintió apresurada.
+902, 2, Falta de disponibilidad de medicamentos.
+902, 2, Falta de disponibilidad de medicamentos.
+874, 2, La atención del personal no fue satisfactoria.
+553, 2, Problemas con la facturación del servicio.
+176, 2, El cuarto asignado estaba en malas condiciones.
+404, 3, El cuarto asignado estaba en malas condiciones.
+969, 2, La cita fue cancelada sin previo aviso.
+360, 2, El tiempo de espera fue demasiado largo.
+, 2, 
+161, 2, Se extraviaron documentos clínicos importantes.
+114, 2, La cita fue cancelada sin previo aviso.
+114, 2, La cita fue cancelada sin previo aviso.
+746, 1, El tiempo de espera fue demasiado largo.
+619, 1, La atención del personal no fue satisfactoria.
+261, 2, El médico dijo: 'todo bien' sin explicación
+, 2, 
+210, 3, Falta de disponibilidad de medicamentos.
+61, 1, El personal administrativo fue poco cordial.
+61, 1, El personal administrativo fue poco cordial.
+245, 2, El personal administrativo fue poco cordial.
+, 2, 
+842, 4, El personal administrativo fue poco cordial.
+846, 1, Problemas con la facturación del servicio.
+731, 2, El tiempo de espera fue demasiado largo.
+731, 2, El tiempo de espera fue demasiado largo.
+620, 1, El tiempo de espera fue demasiado largo.
+995, 2, Se extraviaron documentos clínicos importantes.
+500, 2, El cuarto asignado estaba en malas condiciones.
+190, , 
+190, , 
+462, 2, El personal administrativo fue poco cordial.
+, 2, Se extraviaron documentos clínicos importantes.
+402, , 
+97, 1, El tiempo de espera fue demasiado largo.
+97, 1, El tiempo de espera fue demasiado largo.
+815, 1, Falta de disponibilidad de medicamentos.
+815, 1, Falta de disponibilidad de medicamentos.
+765, 1, Problemas con la facturación del servicio.
+960, 2, El médico dijo: 'todo bien' sin explicación
+175, 4, Se extraviaron documentos clínicos importantes.
+836, 2, El cuarto asignado estaba en malas condiciones.
+747, 3, El médico no explicó claramente el diagnóstico.
+747, 3, El médico no explicó claramente el diagnóstico.
+780, 3, La atención se sintió apresurada.
+, 3, Problemas con la facturación del servicio.
+406, 4, El cuarto asignado estaba en malas condiciones.
+869, 4, El personal administrativo fue poco cordial.
+147, 1, 
+, 4, 
+708, 3, El personal administrativo fue poco cordial.
+628, 2, Problemas con la facturación del servicio.
+438, 1, El cuarto asignado estaba en malas condiciones.
+80, 2, Falta de disponibilidad de medicamentos.
+270, 4, Falta de disponibilidad de medicamentos.
+302, 4, La cita fue cancelada sin previo aviso.
+931, 4, El personal administrativo fue poco cordial.
+990, , 
+990, , 
+534, , 
+242, 1, El tiempo de espera fue demasiado largo.
+875, 4, La cita fue cancelada sin previo aviso.
+183, 4, La cita fue cancelada sin previo aviso.
+202, 2, La atención se sintió apresurada.,,,
+400, 2, El médico no explicó claramente el diagnóstico.
+488, 2, La atención del personal no fue satisfactoria.
+833, 4, Se extraviaron documentos clínicos importantes.
+265, 2, Problemas con la facturación del servicio.
+283, 3, El médico no explicó claramente el diagnóstico.
+283, 3, El médico no explicó claramente el diagnóstico.
+325, 4, Falta de disponibilidad de medicamentos.
+126, 4, El médico dijo: 'todo bien' sin explicación
+126, 4, El médico dijo: 'todo bien' sin explicación
+886, 2, El médico no explicó claramente el diagnóstico.
+512, ???, La cita fue cancelada sin previo aviso.
+512, ???, La cita fue cancelada sin previo aviso.
+313, 1, Falta de disponibilidad de medicamentos.
+135, 1, La atención se sintió apresurada.
+716, 4, La cita fue cancelada sin previo aviso.
+28, 3, El cuarto asignado estaba en malas condiciones.
+28, 3, El cuarto asignado estaba en malas condiciones.
+387, 1, Falta de disponibilidad de medicamentos.
+372, 1, La cita fue cancelada sin previo aviso.
+403, 3, El personal administrativo fue poco cordial.,,,
+213, 3, El tiempo de espera fue demasiado largo.
+213, 3, El tiempo de espera fue demasiado largo.
+91, 3, La cita fue cancelada sin previo aviso.
+797, 4, El personal administrativo fue poco cordial.
+84, 1, El personal administrativo fue poco cordial.
+988, 4, Falta de disponibilidad de medicamentos.
+, ???, 
+145, 1, La cita fue cancelada sin previo aviso.
+145, 1, La cita fue cancelada sin previo aviso.
+23, 4, La atención del personal no fue satisfactoria.
+247, 3, El personal administrativo fue poco cordial.
+621, 1, La cita fue cancelada sin previo aviso.
+2, 3, La atención del personal no fue satisfactoria.
+965, 2, La atención se sintió apresurada.
+ABC123, 4, El tiempo de espera fue demasiado largo.
+32, 1, Se extraviaron documentos clínicos importantes.
+877, 2, El médico no explicó claramente el diagnóstico.
+766, 4, Problemas con la facturación del servicio.
+766, 4, Problemas con la facturación del servicio.
+427, 2, La atención se sintió apresurada.
+184, 1, El personal administrativo fue poco cordial.
+850, 4, El personal administrativo fue poco cordial.
+676, 3, La atención del personal no fue satisfactoria.
+, , La atención del personal no fue satisfactoria.
+694, 4, 
+, 4, Falta de disponibilidad de medicamentos.
+, 4, Falta de disponibilidad de medicamentos.
+, 3, 
+69, 3, El cuarto asignado estaba en malas condiciones.
+468, 4, La cita fue cancelada sin previo aviso.
+142, 2, La atención se sintió apresurada.
+255, 4, El cuarto asignado estaba en malas condiciones.
+895, , Problemas con la facturación del servicio.
+938, 3, La cita fue cancelada sin previo aviso.
+647, 2, Falta de disponibilidad de medicamentos.
+414, 4, Falta de disponibilidad de medicamentos.
+678, 2, La cita fue cancelada sin previo aviso.
+678, 2, La cita fue cancelada sin previo aviso.
+330, 1, El personal administrativo fue poco cordial.
+231, 4, El personal administrativo fue poco cordial.
+231, 4, El personal administrativo fue poco cordial.
+443, 4, El médico no explicó claramente el diagnóstico.,,,
+443, 4, El médico no explicó claramente el diagnóstico.,,,
+710, ???, La cita fue cancelada sin previo aviso.
+761, 4, Se extraviaron documentos clínicos importantes.
+761, 4, Se extraviaron documentos clínicos importantes.
+760, 2, El cuarto asignado estaba en malas condiciones.,,,
+811, 3, El médico dijo: 'todo bien' sin explicación
+811, 3, El médico dijo: 'todo bien' sin explicación
+249, 1, El personal administrativo fue poco cordial.
+, , Se extraviaron documentos clínicos importantes.
+, , Se extraviaron documentos clínicos importantes.
+168, 1, La cita fue cancelada sin previo aviso.
+834, 4, La atención se sintió apresurada.
+253, 1, El personal administrativo fue poco cordial.
+582, 3, Se extraviaron documentos clínicos importantes.
+582, 3, Se extraviaron documentos clínicos importantes.
+827, 1, El cuarto asignado estaba en malas condiciones.
+298, 3, Problemas con la facturación del servicio.
+717, 3, La atención se sintió apresurada.
+963, 2, El tiempo de espera fue demasiado largo.
+3, 3, El médico no explicó claramente el diagnóstico.
+679, 2, El cuarto asignado estaba en malas condiciones.
+442, 1, Falta de disponibilidad de medicamentos.
+442, 1, Falta de disponibilidad de medicamentos.
+311, 1, El cuarto asignado estaba en malas condiciones.
+929, 4, Falta de disponibilidad de medicamentos.
+751, 3, Falta de disponibilidad de medicamentos.
+, 1, El cuarto asignado estaba en malas condiciones.
+379, 2, Problemas con la facturación del servicio.
+169, 4, El tiempo de espera fue demasiado largo.
+169, 4, El tiempo de espera fue demasiado largo.
+68, 1, Falta de disponibilidad de medicamentos.
+910, 3, La atención del personal no fue satisfactoria.
+377, 1, El cuarto asignado estaba en malas condiciones.
+704, 2, El médico no explicó claramente el diagnóstico.
+720, 4, Se extraviaron documentos clínicos importantes.
+132, ???, El tiempo de espera fue demasiado largo.
+132, ???, El tiempo de espera fue demasiado largo.
+629, 1, La atención se sintió apresurada.
